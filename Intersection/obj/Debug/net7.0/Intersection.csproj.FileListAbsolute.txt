@@ -1,0 +1,15 @@
+/home/edwin/Documents/Software Project/C#/Intersection/obj/Debug/net7.0/Intersection.csproj.AssemblyReference.cache
+/home/edwin/Documents/Software Project/C#/Intersection/obj/Debug/net7.0/Intersection.GeneratedMSBuildEditorConfig.editorconfig
+/home/edwin/Documents/Software Project/C#/Intersection/obj/Debug/net7.0/Intersection.AssemblyInfoInputs.cache
+/home/edwin/Documents/Software Project/C#/Intersection/obj/Debug/net7.0/Intersection.AssemblyInfo.cs
+/home/edwin/Documents/Software Project/C#/Intersection/obj/Debug/net7.0/Intersection.csproj.CoreCompileInputs.cache
+/home/edwin/Documents/Software Project/C#/Intersection/bin/Debug/net7.0/Intersection
+/home/edwin/Documents/Software Project/C#/Intersection/bin/Debug/net7.0/Intersection.deps.json
+/home/edwin/Documents/Software Project/C#/Intersection/bin/Debug/net7.0/Intersection.runtimeconfig.json
+/home/edwin/Documents/Software Project/C#/Intersection/bin/Debug/net7.0/Intersection.dll
+/home/edwin/Documents/Software Project/C#/Intersection/bin/Debug/net7.0/Intersection.pdb
+/home/edwin/Documents/Software Project/C#/Intersection/obj/Debug/net7.0/Intersection.dll
+/home/edwin/Documents/Software Project/C#/Intersection/obj/Debug/net7.0/refint/Intersection.dll
+/home/edwin/Documents/Software Project/C#/Intersection/obj/Debug/net7.0/Intersection.pdb
+/home/edwin/Documents/Software Project/C#/Intersection/obj/Debug/net7.0/Intersection.genruntimeconfig.cache
+/home/edwin/Documents/Software Project/C#/Intersection/obj/Debug/net7.0/ref/Intersection.dll
